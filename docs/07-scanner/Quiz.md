@@ -315,6 +315,7 @@ int input = scanner.nextInt();
 while (input != -1) {
     // 처리 로직
     input = scanner.nextInt();
+    
 }
 ```
 
